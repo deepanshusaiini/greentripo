@@ -1,2 +1,2 @@
-# greentripo
-this is flight booking website
+# Greentripo
+This is flight booking website
