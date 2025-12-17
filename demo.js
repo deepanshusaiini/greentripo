@@ -26,6 +26,7 @@ export const PlacesAutocomplete = () => {
 
   console.log('3:54 PM:alpha')
 
+  console.log('API DATA IS HERE', ALPHA)
 
   const handleInput = (e) => {
 
