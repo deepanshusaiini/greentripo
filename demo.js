@@ -29,6 +29,7 @@ export const PlacesAutocomplete = () => {
   const handleInput = (e) => {
     console.log('just checking to confirm')
 
+    console, log('Deepanshu checking for pull request')
     // Update the keyword of the input element
     console.log('handleinput-', e.target.value)
     setValue(e.target.value);
