@@ -16,6 +16,10 @@ export default function AboutUs() {
                 <NavOne />
             </div>
 
+            <button>
+                Add Button
+            </button>
+
             <div>
                 <NavBar />
             </div>
