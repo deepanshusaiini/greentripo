@@ -25,7 +25,7 @@ export const PlacesAutocomplete = () => {
   });
 
   const handleInput = (e) => {
-    console.log('just checking to confirm how git works what is the flow for learning purposes')
+    console.log('just checking to confirm')
     // Update the keyword of the input element
     console.log('handleinput-', e.target.value)
     setValue(e.target.value);
