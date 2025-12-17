@@ -26,6 +26,8 @@ export const PlacesAutocomplete = () => {
 
   console.log('3:54 PM:alpha')
 
+  console.log('3:58 PM:beta')
+
 
   const handleInput = (e) => {
 
