@@ -24,10 +24,11 @@ export const PlacesAutocomplete = () => {
     clearSuggestions();
   });
 
-  console.log('this code is aaded by shivam.')
+  console.log('3:54 PM:alpha')
+
 
   const handleInput = (e) => {
-    console.log('just checking to confirm')
+
 
     // Update the keyword of the input element
     console.log('handleinput-', e.target.value)
