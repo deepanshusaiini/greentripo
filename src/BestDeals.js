@@ -30,7 +30,7 @@ export default function BestDeals() {
         <div className='bestdeal-container'>
 
             <div >
-                <NavOne by={handleAlert()} />
+                <NavOne by={handleAlert} />
             </div>
 
             <div>
