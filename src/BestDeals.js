@@ -22,11 +22,15 @@ export default function BestDeals() {
         console.log('deepanshu')
     }
 
+
+    const handleAlert = () => {
+        alert('Checking the Commit')
+    }
     return (
         <div className='bestdeal-container'>
 
-            <div>
-                <NavOne />
+            <div >
+                <NavOne by={handleAlert()} />
             </div>
 
             <div>
