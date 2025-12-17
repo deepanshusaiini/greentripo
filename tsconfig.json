@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["dom", "esnext"],
+    "allowJs": true,
+    "types": ["react", "google.maps"],
+    "checkJs": false,
+    "typeRoots": ["node_modules/@types", "src/types"],
+
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+
+    "strict": true,
+    "skipLibCheck": true,
+
+    "jsx": "react-jsx",
+
+    "sourceMap": true,
+    "declaration": false,
+
+    "outDir": "./dist"
+  },
+
+  // "include": ["src/**/*"]
+  "include": ["src/**/*","**/*.ts", "**/*.tsx", "backend/src/ server.js"],
+}
