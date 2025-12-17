@@ -24,7 +24,7 @@ export const PlacesAutocomplete = () => {
     clearSuggestions();
   });
 
-  console.log('this code is aaded by shivam.')
+  console.log('wednesday --- time---3:40 PM')
 
   const handleInput = (e) => {
     console.log('just checking to confirm')
