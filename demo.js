@@ -34,6 +34,8 @@ export const PlacesAutocomplete = () => {
 
   console.log("this is last try")
 
+  console.log('this is  last alpha ')
+
   const handleInput = (e) => {
 
     // Update the keyword of the input element
