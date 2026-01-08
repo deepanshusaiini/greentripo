@@ -28,9 +28,15 @@ export const PlacesAutocomplete = () => {
 
   console.log('3:58 PM:beta')
 
+  console.log('API DATA IS HERE', ALPHA)
+
+  console.log("this is alpha")
+
+  console.log("this is last try")
+
+  console.log('this is  last alpha ')
 
   const handleInput = (e) => {
-
 
     // Update the keyword of the input element
     console.log('handleinput-', e.target.value)
